@@ -1,96 +1,60 @@
+# 🧠 Vault de Conocimiento
 
-<br>
+Repositorio personal de estudio y documentación autodidacta. Aquí organizo todo lo que aprendo en distintas áreas como Análisis de Red, Criptografía y Esteganografía, Hacking Ético y Pentesting, entre otros.
 
-<p align="center">
-<img src="Logotipo.jpg" width="278px">
-</p>
+## ⚙️ Recomendación de uso
 
-<br>
+Este repositorio fue estructurado para visualizarse y organizarse correctamente utilizando [**Obsidian**](https://obsidian.md/), una herramienta gratuita de notas basada en Markdown que permite crear conexiones entre ideas y navegar de forma eficiente por el conocimiento.
 
-[![Github](https://img.shields.io/badge/Github-bl4ck44-yellow?style=for-the-badge&logo=github)](https://github.com/bl4ck44)
+### ¿Cómo empezar?
 
-Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara acerca de herramientas de explotación de vulnerabilidades, técnicas de seguridad y antiforense, criptografía, programación para a hacking, auditoría de redes, hacking web, sistemas operativos e ingeniería social entre otras cosas más.
+1. Descarga **Obsidian** desde su sitio oficial: [https://obsidian.md](https://obsidian.md)
+2. Abre la aplicación y selecciona la opción `Abrir carpeta como Vault`.
+3. Elige la carpeta clonada de este repositorio para explorar todas las notas, conexiones y secciones.
 
-### 💻👩🏻‍💻**Hacking**👩🏻‍💻💻
+> También puedes ver los archivos directamente desde GitHub, pero se recomienda usar Obsidian para aprovechar al máximo su estructura, enlaces internos, visualización de gráficos y experiencia de navegación.
 
-</br>
+---
 
-**Explotacion:**
+## 📚 Índice General
 
-> * [Msfvenom fuera de LAN](https://github.com/bl4ck44/Articulos/blob/master/Explotaci%C3%B3n/Msfvenom/Msfvenom.md)
+### Ciberseguridad
 
-> * [Cracking Windows 10](https://github.com/bl4ck44/Articulos/blob/master/Explotaci%C3%B3n/Cracking-Windows-10/Cracking.md)
+Todo lo relacionado con hacking ético, seguridad ofensiva y defensiva.
 
-> * [Cracking Android](https://github.com/bl4ck44/Articulos/blob/master/Explotaci%C3%B3n/Cracking-Android/Android.md)
+#### Subcategorías:
 
-> * [Cracking con John the Ripper](https://github.com/bl4ck44/Articulos/blob/master/Explotaci%C3%B3n/John-the-Ripper/John-the-Ripper.md)
+- **Análisis de Malware e Ingeniería Inversa**
+  - Terminologías y Propagación de Malware
+  - Conceptos de Análisis de Malware
+  - Configuración del Laboratorio
+  - Análisis Estático
+  - Análisis Dinámico
+  - Reversing Malware
 
-> * [Inyección con Sqlmap](https://github.com/bl4ck44/Articulos/blob/master/Explotaci%C3%B3n/sqlmap/sqlmap.md)
+- **Análisis de Red y Seguridad Wireless**
+  - Aircrack-ng
+  - Bettercap
+  - Fake-AP
+  - Tcpdump
+  - WIreshark
 
+- **Criptografía y Esteganografía**
+  - Algoritmos y vulnerabilidades de criptografía
+  - Descifrando las contraseñas
+  - Herramientas
 
-<br>
+- **Hacking Ético y Pentesting**
+  - Análisis de vulnerabilidades
+  - Prácticas de hacking ético para TI y OT
+  - Pruebas de penetración móvil - iOS, Android y Windows
+  - Recopilación y enumeración activa de información
 
-**Redes:**
-
-> * [Ataque Man in the Middle](https://github.com/bl4ck44/Articulos/blob/master/Redes/MITM/MITM.md)
-
-> * [Cracking con Aircrack-ng](https://github.com/bl4ck44/Articulos/blob/master/Redes/Aircrack-ng/Aircrack-ng.md)
- 
-> * [Análisis con Bettercap](https://github.com/bl4ck44/Articulos/blob/master/Redes/Bettercap/Bettercap.md)
-
-> * [Análisis con Wireshark](https://github.com/bl4ck44/Articulos/blob/master/Redes/Wireshark/Wireshark.md)
-
-> * [Crear Fake AP (Punto de Acceso Falso)](https://github.com/bl4ck44/Articulos/blob/master/Redes/Fake-AP/fakeAP.md)
-
-> * [Poner en modo monitor adaptador tp-link tl wn722n](https://github.com/bl4ck44/Articulos/blob/master/Redes/tlwn722n/tlwn722n.md)
-
-> * [Capturar paquetes de red con Tcpdump](https://github.com/bl4ck44/Articulos/blob/master/Redes/Tcpdump/Tcpdump.md)
-
-<br>
-
-**OSINT:**
-
-> * [Análisis de metadatos con Exiftool](https://github.com/bl4ck44/Articulos/blob/master/OSINT/Exiftool/exiftool.md)
-
-> * [Escaneo de puertos con Nmap](https://github.com/bl4ck44/Articulos/blob/master/OSINT/Nmap/Nmap.md)
-
-> * [Escaneo de directorios web con dirsearch](https://github.com/bl4ck44/Articulos/blob/master/OSINT/dirsearch/dirsearch.md)
+- **OSINT y Anonimato**
+  - Anonimato en internet
+  - Exiftool
+  - Nmap
 
 
-> * [Como identificar un sistema operativo mediante TTL](https://github.com/bl4ck44/Articulos/blob/master/OSINT/System%20OS/systemOS.md)
-
-<br>
-
-**Pentesting:**
-
-> * [Instalación de DVWA (Damn Vulnerable Web App)](https://github.com/bl4ck44/Articulos/blob/master/Pentesting/DVWA/DVWA.md)
-
-> * [Escaneo de firewall web con Wafw00f](https://github.com/bl4ck44/Articulos/blob/master/Pentesting/Wafw00f/Wafw00f.md)
-
-> * [Escaneo con Whatweb](https://github.com/bl4ck44/Articulos/blob/master/Pentesting/Whatweb/Whatweb.md)
-
-> * [Escaneo de vulnerabilidades con Wapiti](https://github.com/bl4ck44/Articulos/blob/master/Pentesting/Wapiti/Wapiti.md)
-
-> * [Escaneo de vulnerabilidades con Skipfish](https://github.com/bl4ck44/Articulos/blob/master/Pentesting/Skipfish/Skipfish.md)
-
-> * [Verificar el servicio en cualquier puerto para admitir cifrados TLS/SSL](https://github.com/bl4ck44/Articulos/blob/master/Pentesting/testssl.sh/testssl.sh.md)
-
-> * [Escanear vulnerabilidades con Nikto](https://github.com/bl4ck44/Articulos/blob/master/Pentesting/Nikto/Nikto.md)
-
-</br>
-
-**Criptografía y Esteganografía**
-
-> * [Como esconder datos en una imagen con steghide](https://github.com/bl4ck44/Articulos/blob/master/Criptograf%C3%ADa%20y%20Esteganograf%C3%ADa/steghide/steghide.md)
-
-> * [Como esconder datos en un archivo MP3](https://github.com/bl4ck44/Articulos/blob/master/Criptograf%C3%ADa%20y%20Esteganograf%C3%ADa/Deep%20Sound/Readme.md)
-
-<br>
-
-### 💻👾**Análisis de Malware**👾💻
-
-<br>
-
-> * [Creación de Laboratorio Sandboxed](https://github.com/bl4ck44/Articulos/blob/master/An%C3%A1lisis-de-Malware/Sandboxed/Sandboxed.md)
-
-> * [Herramientas para análisis de malware](https://github.com/bl4ck44/Articulos/blob/master/An%C3%A1lisis-de-Malware/Herramientas/Herramientas.md)
+- **Sistemas Operativos**
+  - Kali Linux

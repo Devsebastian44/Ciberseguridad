@@ -58,3 +58,4 @@ Todo lo relacionado con hacking ético, seguridad ofensiva y defensiva.
 
 - **Sistemas Operativos**
   - Kali Linux
+  

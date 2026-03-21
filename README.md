@@ -18,44 +18,43 @@ Este repositorio fue estructurado para visualizarse y organizarse correctamente 
 
 ## 📚 Índice General
 
-### Ciberseguridad
+### 🛡️ Ciberseguridad
 
 Todo lo relacionado con hacking ético, seguridad ofensiva y defensiva.
 
-#### Subcategorías:
+- **00 - Fundamentos**
+- **01 - Malware e Ingenieria Inversa**
+- **02 - Criptografia y Esteganografia**
+- **03 - OSINT y Anonimato**
+- **04 - Pentesting**
+- **05 - Operaciones de seguridad**
+- **06 - Cloud Security**
+- **Herramientas**
 
-- **Análisis de Malware e Ingeniería Inversa**
-  - Terminologías y Propagación de Malware
-  - Conceptos de Análisis de Malware
-  - Configuración del Laboratorio
-  - Análisis Estático
-  - Análisis Dinámico
-  - Reversing Malware
+### 💻 Ciencias de la Computación
 
-- **Análisis de Red y Seguridad Wireless**
-  - Aircrack-ng
-  - Bettercap
-  - Fake-AP
-  - Tcpdump
-  - WIreshark
+Fundamentos teóricos y aplicados de la computación.
 
-- **Criptografía y Esteganografía**
-  - Algoritmos y vulnerabilidades de criptografía
-  - Descifrando las contraseñas
-  - Herramientas
+- **01 - Bases de Datos**
+- **02 - Diseño Datos**
+- **03 - Data Engineering**
+- **04 - Big Data**
+- **05 - Ciencia de Datos**
+- **06 - Inteligencia Artificial**
+- **07 - Computación Cuántica**
+- **08 - Sistemas Operativos**
 
-- **Hacking Ético y Pentesting**
-  - Análisis de vulnerabilidades
-  - Prácticas de hacking ético para TI y OT
-  - Pruebas de penetración móvil - iOS, Android y Windows
-  - Recopilación y enumeración activa de información
+### 🚀 Programación
 
-- **OSINT y Anonimato**
-  - Anonimato en internet
-  - Exiftool
-  - Nmap
+Lenguajes, frameworks y herramientas para el desarrollo de software.
 
-
-- **Sistemas Operativos**
-  - Kali Linux
+- **00 - Fundamentos**
+- **C#**
+- **Desarrollo Web**
+- **DevOps**
+- **Elixir**
+- **Excalidraw**
+- **Github**
+- **Kotlin**
+- **Python**
   

@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "d680b12ba50b16c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d801dc0d7367a72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "577978538cef68f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciencias de la Computación/04 - Big Data/Apache Spark I/Conceptos/05 - Variables Compartidas de Clave Valor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 - Variables Compartidas de Clave Valor"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa19a2d5941a0e17",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5eee40afdc9db18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db15a2f2311c0e14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "1558d2cdd342c5d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "740ab0b2e8331ce8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 379.5
+  },
+  "right": {
+    "id": "750fb1a4d505f99f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac419c4696e30818",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7271ace7bd22979d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "d30fa730704cbe6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "a21e12ef9249253c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "5d8ac54d01745f71",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "b34fde30f5b224f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "577978538cef68f9",
+  "lastOpenFiles": [
+    "Ciencias de la Computación/04 - Big Data/Apache Spark I/Conceptos/04 - Spark Core y Módulos.md",
+    "Ciencias de la Computación/04 - Big Data/Apache Spark I/Conceptos/03 - RDD DataFrames.md",
+    "Ciencias de la Computación/04 - Big Data/Apache Spark I/Conceptos/02 - RDD Conjunto de Datos Distribuidos.md",
+    "Ciencias de la Computación/04 - Big Data/Apache Spark I/Conceptos/01 - Fundamentos de Apache Spark.md",
+    "Ciencias de la Computación/05 - Ciencia de Datos/Visualización de Datos/01 - Creando Visualizaciones.md",
+    "Ciencias de la Computación/08 - Sistemas Operativos/Linux/Otros/Red virtual/Red NAT.md",
+    "Ciberseguridad/INDEX.md",
+    "INDEX.md",
+    "Ciencias de la Computación/06 - Inteligencia Artificial/Machine Learning/Clasificación de Datos/03 - Ajuste de Modelos.md",
+    "generate_indices.py",
+    "Ciencias de la Computación/INDEX.md",
+    "Ciencias de la Computación/05 - Ciencia de Datos/Estadística con Python/Frecuencias y medidas/03 - Medidas de Tendencia Central.md",
+    "Ciberseguridad/00 - Sistemas Operativos/Linux/Otros/Red virtual/Red Virtual.md",
+    "Ciberseguridad/00 - Sistemas Operativos/Linux/Configuraciónes/IP Estática/IP Estática.md",
+    "Programación/INDEX.md",
+    "missing_links.txt",
+    "check_links.py",
+    "Ciberseguridad/00 - Sistemas Operativos/Kali Linux/Comandos/Comandos Básicos de Linux.md",
+    "Ciberseguridad/08 - Herramientas/Whatweb/Img/Ejemplo 4.png",
+    "Ciberseguridad/08 - Herramientas/Whatweb/Img/Ejemplo 3.png",
+    "Ciberseguridad/08 - Herramientas/Whatweb/Img/Ejemplo 2.png",
+    "Ciberseguridad/08 - Herramientas/Whatweb/Img/Ejemplo 1.png",
+    "Ciberseguridad/08 - Herramientas/Nikto/Img/Ejemplo.png",
+    "Ciberseguridad/08 - Herramientas/Aircrack-ng/Img/iwconfig.jpg",
+    "Ciberseguridad/08 - Herramientas/Wireshark/Img/telnet.png",
+    "Ciberseguridad/08 - Herramientas/Wireshark/Img/trafico.png",
+    "Ciberseguridad/08 - Herramientas/Wireshark/Img/tcp.png",
+    "Ciberseguridad/08 - Herramientas/Wireshark/Img/interface.png",
+    "Ciberseguridad/08 - Herramientas/Whatweb/Whatweb.md",
+    "Ciberseguridad/08 - Herramientas/Whatweb/Img",
+    "Ciberseguridad/08 - Herramientas/Wireshark/Wireshark.md",
+    "Ciberseguridad/08 - Herramientas/Wireshark/Técnicas Avanzadas.md",
+    "Ciberseguridad/08 - Herramientas/Wireshark/Img",
+    "Ciberseguridad/08 - Herramientas/Wireshark/Instalacion.md",
+    "Ciberseguridad/08 - Herramientas/Wireshark/Hacking con Wireshark.md",
+    "Ciberseguridad/08 - Herramientas/Wireshark/Fundamentos.md",
+    "Ciberseguridad/08 - Herramientas/Wireshark/Flujo TCP.md",
+    "Ciberseguridad/08 - Herramientas/Wireshark/Extracción de Archivos.md",
+    "Ciberseguridad/08 - Herramientas/Wireshark/Captura y Filtros.md",
+    "Ciberseguridad/08 - Herramientas/Wireshark/Análisis de Paquetes.md",
+    "Ciberseguridad/08 - Herramientas/Skipfish/Skipfish.md",
+    "Ciberseguridad/08 - Herramientas/Skipfish/Img",
+    "Ciberseguridad/08 - Herramientas/Wapiti/Img",
+    "Ciberseguridad/08 - Herramientas/Wafw00f/Img",
+    "Ciberseguridad/08 - Herramientas/testssl.sh/Img",
+    "Ciberseguridad/08 - Herramientas/steghide/Img"
+  ]
+}

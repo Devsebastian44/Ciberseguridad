@@ -43,6 +43,8 @@ Fundamentos teóricos y aplicados de la computación.
 - **06 - Inteligencia Artificial**
 - **07 - Computación Cuántica**
 - **08 - Sistemas Operativos**
+- **09 - Redes**
+- **10 - Cloud**
 
 ### 🚀 Programación
 
